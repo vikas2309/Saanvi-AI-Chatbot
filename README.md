@@ -1,4 +1,4 @@
-# AI-Chatbot
+# Saanvi AI-Chatbot
 
 ![Designer](https://github.com/vikas2309/Saanvi-AI-Chatbot/assets/87652402/3933358e-6dbe-4181-acd7-5d25c947db6e)
 
