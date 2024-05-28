@@ -3,7 +3,7 @@
 ![Designer](https://github.com/vikas2309/Saanvi-AI-Chatbot/assets/87652402/3933358e-6dbe-4181-acd7-5d25c947db6e)
 
 
-## Chat Bot
+## Chat Bot (KmitBot)
 
 This  implements a chatbot capable of interacting with users based on predefined intents and responses. The chatbot utilizes NLP techniques and a machine learning model to understand user input and generate appropriate responses.
 
