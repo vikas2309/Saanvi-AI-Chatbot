@@ -1,0 +1,25 @@
+.chat-log {
+    max-height: 400px;
+    overflow-y: auto;
+}
+.chat-message {
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 70%;
+}
+.chat-message.user {
+    background-color: #d1e7dd;
+    align-self: flex-start;
+}
+.chat-message.bot {
+    background-color: #f8d7da;
+    align-self: flex-end;
+    margin-left: auto;
+}
+.text-start {
+    text-align: left !important;
+}
+.text-end {
+    text-align: right !important;
+}
